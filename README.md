@@ -26,10 +26,10 @@ Tools
 
 ### Business Planning
 
-- [Business Model Blocks](http://www.boardofinnovation.com/business-model-templates-tools/) - 📄
+- [Business Model Blocks](http://www.boardofinnovation.com/business-model-templates-tools/)📓📄
 - [Business Model Canvas](https://strategyzer.com/canvas)
 - [Happy Startup Canvas](http://www.thehappystartupschool.com/blog/2015/9/29/introducing-the-happy-startup-canvas)
-- [Business Innovation Kit](http://www.uxberlin.com/businessinnovationkit/) - 📓
+- [Business Innovation Kit](http://www.uxberlin.com/businessinnovationkit/)📓
 
 ### Trendspotting
 
