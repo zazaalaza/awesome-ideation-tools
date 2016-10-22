@@ -48,7 +48,7 @@ Tools
 
 ### Cards
 
-- [75 Tools for Creative Thinking](Link) - This creative card deck toolbox will guide the player to be creative at the different stages of any process or situation where new ideas are desired.
+- [75 Tools for Creative Thinking](http://75toolsforcreativethinking.com/) - This creative card deck toolbox will guide the player to be creative at the different stages of any process or situation where new ideas are desired.
 - [Analytics Cards](https://www.kickstarter.com/projects/196851189/analytics-cards/description) - A card deck to help you and your team learn to explore business insights using Google Analytics™.
 - [Brainstorm Cards - 52 Ways to Generate New Ideas](http://info.boardofinnovation.com/brainstorm-cards) - A  collection of 52 cards to help you brainstorm and come up with new ideas.
 - [Brand Deck](https://branding.cards/) - A tool that helps you figure out who you are.
