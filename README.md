@@ -22,7 +22,7 @@ Table of Contents
 
 ### Legend
 
-- 📓 - Pysical product.
+- 📓 - Physical product.
 - 📄 - Free printable version available for download.
 - 📑 - Physical product discontinued or wasn't available to begin with.
 
