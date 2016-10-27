@@ -157,8 +157,14 @@ Tools
 
 - [Creative Problem Solving Toolkit](http://www.innoweo.com/news/another-step-forward/) - .
 - [The Gamestorming Cheat Sheet](https://docs.google.com/document/d/1BQb3AWDar2sUda-Rf1E2HDJJj1oMbxrg-BBEsnnYnuM/edit) - .
+- [Microsoft Inclusive Design Toolkit](https://www.microsoft.com/en-us/design/practice) - A set of principles?.
+- [St Gallen Business Model Navigator](https://zework.files.wordpress.com/2014/03/st_galler_business_model_navigator.pdf) - .
+- [Design Method Toolkit](http://medialabamsterdam.com/toolkit/) - .
 
-
+- [Deckaholick](http://www.deckaholic.com/)
+- [Emebrgent by Design](https://emergentbydesign.com/2012/10/25/21-card-decks-for-creative-problem-solving-effective-communication-strategic-foresight/)
+- [Innovation Management](http://www.innovationmanagement.se/articles-categories/brainstorming-tools/)
+- [MethodKit](https://methodkit.com/research-method-cards/)
 
 
 
