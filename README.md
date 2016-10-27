@@ -44,7 +44,7 @@ Tools
 - [Futurescan](http://www.boardofinnovation.com/futurescan/) - +200 thought-provoking future predictions.
 - [NowandNext](http://www.nowandnext.com/trend-maps/) - A collection of Trend Maps created by futurist Richard Watson.
 - [Envisioning.io](http://envisioning.io/) - A collective foresight platform to generate insight on emerging technologies.
-  - [Past Envisioning Predictions](http://envisioning.io/milestones/) - Past visualizations from FutureScan.
+  - [Past Envisioning Predictions](http://envisioning.io/milestones/) - Past visualizations from Envisioning.
   - [Readiness Framework](http://envisioning.io/readiness/) - Readiness is a crowdsourced model for assessing the development of emerging technologies.
 - [WEB TREND MAP 4](https://ia.net/know-how/wtm4) - The Web Trend Map plots the Internet’s leading names and domains onto the Tokyo Metro map.
 - [Lacuna Radar](https://www.lacunaradar.com/) - An online tool that helps you organize visualize industry trends and technologies.
