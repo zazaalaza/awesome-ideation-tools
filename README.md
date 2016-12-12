@@ -154,12 +154,24 @@ Tools
 - [Project of How](http://projectofhow.com/methods/) - A collection of brainstorming methods everyone can start using right away.
 - [Design games](http://www.designgames.com.au/) - Fun activities that are primarily used to provide input to a design problem.
 
-### Need Description
+### To be sorted
 
 - [Creative Problem Solving Toolkit](http://www.innoweo.com/news/another-step-forward/) - .
 - [The Gamestorming Cheat Sheet](https://docs.google.com/document/d/1BQb3AWDar2sUda-Rf1E2HDJJj1oMbxrg-BBEsnnYnuM/edit) - .
 - [St Gallen Business Model Navigator](https://zework.files.wordpress.com/2014/03/st_galler_business_model_navigator.pdf) - .
 - [Design Method Toolkit](http://medialabamsterdam.com/toolkit/) - .
+- [The Startup Rocket Framework](https://www.startuprocket.com/framework) - .
+- [The App Launch Checklist](https://branch.io/resources/app-launch-checklist/) - .
+- [Entanglement](https://dl.dropboxusercontent.com/u/6408003/ENTANGLEMENT_PERSONAS-METACONSTRUCTS_GEN001.pdf) - .
+- [Nventi](http://www.nventi.com/) - .
+- [The Trend Management Toolkit: A Practical Guide to the Future](https://www.amazon.com/The-Trend-Management-Toolkit-Practical/dp/1137370084) - .
+- [The Strategist's Toolkit](https://www.amazon.com/The-Strategists-Toolkit-Jared-Harris-ebook/dp/B00F0KZ4GA) - .
+- [This is Service Design Thinking](https://www.amazon.co.uk/This-Service-Design-Thinking-Basics/dp/906369279X) - .
+- [The Innovator's Toolkit](https://www.amazon.com/dp/1118298101) - .
+- [DIY - Development Impact and You](https://www.amazon.co.uk/DIY-Development-Practical-Trigger-Innovation/dp/1848751508) - .
+- [Innovation Thinking Methods for the Modern Entrepreneur](http://innovationthinking.org/) - .
+- [The Field Guide to Human-Centered Design](http://www.designkit.org/resources/1) - .
+- [Idea Canvas](https://raw.githubusercontent.com/kaiomagalhaes/blog/master/en/images/image02.png) - .
 
 ### Other places that try to aggragate ideation tools
 
