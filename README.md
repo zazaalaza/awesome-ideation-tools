@@ -210,6 +210,7 @@ For some reason there are a lot of tools with designers in mind. So they get the
 ### Lists
 Links to websites that try, to some degree, to create a list like this one.
 
+- [Consultant Stack](http://consultantstack.com/) - The precursor website to this list.
 - [Deckaholick](http://www.deckaholic.com/) - A website that collects card deck style tools.
 - [Emergent by Design](https://emergentbydesign.com/2012/10/25/21-card-decks-for-creative-problem-solving-effective-communication-strategic-foresight/) - An older blog post that lists several tools.
 - [Innovation Management](http://www.innovationmanagement.se/articles-categories/brainstorming-tools/) - Lists several older tools.
