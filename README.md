@@ -4,7 +4,7 @@
 
 Introduction
 ------------
-A collection of brainstorming, problem solving, ideation and team building tools. From foresight to overcoming creative blocks, this is intended to be an exhaustive list of all problem solving methods created so far. 
+Awesome collection of brainstorming, problem solving, ideation and team building tools. From foresight to overcoming creative blocks, this list contains all the awesome boardgames, canvases and deck of cards that were designed to help you solve a certian problem.
 
 
 Table of Contents
@@ -20,7 +20,7 @@ Table of Contents
 - [Self Help](#self-help)
 - [Designer Tools](#designer-tools)
 - [Other Tools](#other-tools)
-- [N/A Tools](#not-available)
+- [N/A Tools](#not-available-tools)
 
 ### Legend
 
